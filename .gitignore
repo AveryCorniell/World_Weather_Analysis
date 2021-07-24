@@ -1,3 +1,11 @@
+# Adding the config.py file. --- API keys
+config.py
+.*config.py
+
+# Adding additional files.
+API_practice.ipynb
+random_numbers.ipynb
+
 .# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -128,6 +136,3 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# API key
-config.py
-.*config.py
