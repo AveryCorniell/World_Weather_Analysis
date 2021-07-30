@@ -6,7 +6,7 @@ The purpose of this analysis was to create an application on the travel company'
 
 ## Resources/Dependencies  
 
-Citipy  
+Citipy  
 Gmaps & Gmaps.datasets  
 Json  
 Matplotlib.pyplot  
