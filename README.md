@@ -37,6 +37,16 @@ OpenWeatherMaps API to plot Linear Regression were utilized to visualize the cor
 - Latitude vs. Northern Hemisphere Wind Speed  
 - Latitude vs. Southern Hemisphere Wind Speed  
 
+![linregress1N](https://user-images.githubusercontent.com/83401820/127595969-2e146ea5-f2cc-480c-a9c8-250fd34f1f1b.png)
+![linregress1S](https://user-images.githubusercontent.com/83401820/127595970-af0e94f3-5714-4c3e-856c-114054bc6b30.png)
+![linregress2N](https://user-images.githubusercontent.com/83401820/127595971-5b1f4cca-15db-42fc-b3f9-57a600baa588.png)
+![linregress2S](https://user-images.githubusercontent.com/83401820/127595972-9d4813c9-e1c6-46eb-98b4-c739aefcafb6.png)
+![linregress3N](https://user-images.githubusercontent.com/83401820/127595973-29901acd-6425-49e7-aa5d-c9054f36de35.png)  
+![linregress3S](https://user-images.githubusercontent.com/83401820/127595963-3ae594f6-b6a5-4d87-9977-1543ddfd4308.png)
+![linregress4N](https://user-images.githubusercontent.com/83401820/127595965-33ba39e2-0b85-484a-ac7f-0f2c18ff1d9f.png)
+![linregress4S](https://user-images.githubusercontent.com/83401820/127595967-ba87e07a-22b9-42e1-bbe3-21f311c18082.png)  
+
+
 As shown by the Regression Line for Temperature(and is pretty much common knowledge) on both the Northern and Southern Hemisphere plots, the closer to the equator, the warmer the temperature. Rather than plotting this metric, maybe a metric of weather based on the time of year would have served more of a purpose to our client.
 
 Looking at the Regression Line for Humidity, it is evident that there is almost no correlation between the % Humidity and the latitude and therefore humidity is an unpredictable weather parameter. That is why I question using this weather condition as a factor in planning a vacation that may or may not be happening in the short term.
